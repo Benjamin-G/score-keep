@@ -1,0 +1,24 @@
+.item{
+  background: #ffffff;
+  border: 1px solid #e7e7e7;
+  margin-bottom: 1.3rem;
+  padding: 1.3rem;
+}
+.item--position-3{
+  background: lighten(#8aedb7, 8%);
+  border-color: darken(#8aedb7, 15%);
+}
+.item--position-2{
+  background: #5ee69c;
+  border-color: darken(#5ee69c, 15%);
+}
+.item--position-1{
+  background: darken(#48e38e, 10%);
+  border-color: darken(#48e38e, 15%);
+}
+.item__message{
+  font-size: 1.3rem;
+  font-style: italic;
+  font-weight: 300;
+  text-align: center;
+}
